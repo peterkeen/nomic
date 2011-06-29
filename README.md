@@ -1,4 +1,16 @@
-==Immutable Rules
+Nomic: The GitHub Edition
+=========================
+
+Some meta-rules:
+- To join the game, create a fork, add yourself to the end of the player list, and submit a pull request.
+- To propose a rule change, edit the rules to suit your needs and submit a pull request. Debate happens in the pull request discussion forum.
+
+Player List
+-----------
+1. Pete Keen
+
+Immutable Rules
+---------------
 
 * 101. All players must always abide by all the rules then in effect, in the form in which they are then in effect. The rules in the Initial Set are in effect whenever a game begins. The Initial Set consists of Rules 101-116 (immutable) and 201-213 (mutable).
 
@@ -36,7 +48,8 @@
 
 * 116. Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
-==Mutable Rules
+Mutable Rules
+-------------
 
 * 201. Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
