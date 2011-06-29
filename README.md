@@ -2,9 +2,9 @@ Nomic: The GitHub Edition
 =========================
 
 Some meta-rules:
-- To join the game, create a fork, add yourself to the end of the player list, and submit a pull request.
-- To propose a rule change, edit the rules to suit your needs and submit a pull request. Debate happens in the pull request discussion forum.
-- This file is in [GitHub-flavored Markdown](http://github.github.com/github-flavored-markdown/)
+ - To join the game, create a fork, add yourself to the end of the player list, and submit a pull request.
+ - To propose a rule change, edit the rules to suit your needs and submit a pull request. Debate happens in the pull request discussion forum.
+ - This file is in [GitHub-flavored Markdown](http://github.github.com/github-flavored-markdown/)
 
 Player List
 -----------
