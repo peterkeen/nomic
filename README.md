@@ -1,6 +1,8 @@
 Nomic: The GitHub Edition
 =========================
 
+Nomic is a game wherein the point is to change the rules of the game. The [original paper](http://www.earlham.edu/~peters/writing/nomic.htm) goes to great depths explaining just why this is a fun and worthy use of time. Everyone should at least make a stab at reading that.
+
 Some meta-rules:
 
  * To join the game, create a fork, add yourself to the end of the player list, and submit a pull request.
