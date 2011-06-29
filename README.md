@@ -1,7 +1,7 @@
 Nomic: The GitHub Edition
 =========================
 
-Nomic is a game wherein the point is to change the rules of the game. The [original paper](http://www.earlham.edu/~peters/writing/nomic.htm) goes to great depths explaining just why this is a fun and worthy use of time. Everyone should at least make a stab at reading that. This is a test.
+Nomic is a game wherein the point is to change the rules of the game. The [original paper](http://www.earlham.edu/~peters/writing/nomic.htm) goes to great depths explaining just why this is a fun and worthy use of time. Everyone should at least make a stab at reading that.
 
 Some meta-rules:
 
