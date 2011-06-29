@@ -12,6 +12,7 @@ Some meta-rules:
 Player List
 -----------
 1. Pete Keen
+2. R. Church
 
 Immutable Rules
 ---------------
