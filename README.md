@@ -13,6 +13,7 @@ Player List
 -----------
 1. Pete Keen
 2. R. Church
+3. Andrew Lorente
 
 Immutable Rules
 ---------------
