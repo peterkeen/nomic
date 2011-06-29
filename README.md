@@ -104,3 +104,5 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 **213** If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
 This rule takes precedence over every other rule determining the winner.
+
+**301** Voting for or against a proposed rule shall consist of commenting on the associated pull request. A vote for a proposal shall contain "+1". A vote against a proposal shall contain "-1".
